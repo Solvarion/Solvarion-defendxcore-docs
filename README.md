@@ -20,10 +20,10 @@ Once installed and configured, the bot:
 
 ## 📚 Documentation
 
-- [Getting Started](./docs/getting-started.md) — Invite + setup
-- [Commands](./docs/commands.md) — Full list of bot commands
-- [Advanced Features](./docs/advanced.md) — Auto-ban, role access, alert settings
-- [FAQ](./docs/faq.md) — Fixes for common issues
+- [Getting Started](https://github.com/Solvarion/Solvarion-defendxcore-docs/blob/main/getting-started.md) — Invite + setup
+- [Commands](https://github.com/Solvarion/Solvarion-defendxcore-docs/blob/main/commands.md) — Full list of bot commands
+- [Advanced Features](https://github.com/Solvarion/Solvarion-defendxcore-docs/blob/main/docs/advanced.md) — Auto-ban, role access, alert settings
+- [FAQ](https://github.com/Solvarion/Solvarion-defendxcore-docs/blob/main/faq.md) — Fixes for common issues
 
 ---
 
