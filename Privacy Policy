@@ -1,0 +1,75 @@
+
+
+### 1. **What Data We Collect**
+
+DefendXCore collects the following data when used in a Discord server:
+
+* **Server ID** — to identify and configure servers.
+* **Channel IDs** — used for alert delivery.
+* **User IDs** — for managing blacklists and notification settings.
+* **Configuration Settings** — like auto-ban toggle, DM preferences, etc.
+
+**We do NOT collect:**
+
+* Private messages
+* Personal content
+* Emails, IPs, or other sensitive information
+
+---
+
+### 2. **Why We Collect It**
+
+We collect minimal data to:
+
+* Deliver real-time alerts to configured channels
+* Manage blacklists across partnered servers
+* Enable custom configurations per server
+* Improve stability and monitor misuse
+
+---
+
+### 3. **How We Store Data**
+
+* All data is stored securely in a private database.
+* Access is restricted to trusted developers only.
+* No third parties have access to the data.
+
+---
+
+### 4. **Data Retention & Deletion**
+
+* Data is stored as long as the bot is in your server.
+* You can request data removal at any time by DMing the bot owner or using `/request-delete`.
+* When the bot is removed from a server, associated data may be deleted automatically within 30 days.
+
+---
+
+### 5. **Sharing of Data**
+
+We do **not** sell, rent, or share your data with third parties.
+Data may only be shared:
+
+* With server moderators (for alerting)
+* If required by Discord or law enforcement under Discord’s API terms
+
+---
+
+### 6. **Your Rights**
+
+As a user or server owner, you have the right to:
+
+* Request your stored data
+* Ask for correction or deletion
+* Withdraw usage at any time by removing the bot
+
+---
+
+### 7. **Changes to This Policy**
+
+We may update this Privacy Policy at any time. You will be notified through the support server or an announcement if major changes occur.
+
+---
+
+### 8. **Contact**
+
+If you have questions about this policy, please contact the developers via DM or join our support server.
