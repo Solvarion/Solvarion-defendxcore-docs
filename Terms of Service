@@ -1,0 +1,51 @@
+
+
+### 1. **Acceptance of Terms**
+
+By adding or using DefendXCore in your server, you agree to these Terms of Service. If you do not agree with any part of these terms, do not use the bot.
+
+---
+
+### 2. **Usage**
+
+* You must follow [Discord's Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
+* You may not use DefendXCore for malicious purposes, such as harassing users, raiding, or bypassing moderation.
+* Servers using the bot must not promote illegal or harmful content.
+
+---
+
+### 3. **Functionality**
+
+* DefendXCore provides server alerts related to raids, blacklists, and staff alerts.
+* The bot may require permissions such as reading messages, sending messages, and managing webhooks.
+* Features like auto-ban or blacklist notifications are customizable via the `/configure` command.
+
+---
+
+### 4. **Data Collection**
+
+* The bot stores **minimal data**, such as server IDs, channel IDs for alerts, and user IDs for blacklists.
+* No private messages or sensitive content are collected.
+* Data is used solely for the purpose of operating DefendXCore’s features.
+* You may request deletion of your data by contacting the bot owner via DM.
+
+---
+
+### 5. **Liability**
+
+* DefendXCore is provided “as is” with no guarantees.
+* The developers are not responsible for misuse or damage caused by the bot.
+* Server owners are responsible for how the bot is configured and used.
+
+---
+
+### 6. **Termination**
+
+* We reserve the right to deny service or remove the bot from any server at any time for violations of these terms or abuse.
+
+---
+
+### 7. **Contact**
+
+For questions or appeals, please DM the bot owner or reach out in the support server.
+
